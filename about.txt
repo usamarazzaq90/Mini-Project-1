@@ -1,0 +1,8 @@
+users will write posts
+
+1- Create users
+2- login and registeration add
+3- logout
+4- Post creation
+5- Post like
+6- Post deletion (only for the owner of the post)
